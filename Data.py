@@ -14,7 +14,7 @@ I can also be used in groups !!
 To see `Supported Media Types` tap the related button below.
 Use the other buttons to know more about me and my usage.
 
-By @StarkBots
+By @IRBotsUpdate
     """
 
     # Help Message
@@ -37,24 +37,22 @@ That is,
 
 __Note__ : If the bot doesn't respond in the expected way, make the bot admin so that bot gets updates for sure. Telegram is weird.
 
-More features in development. Keep track by joining @StarkBots.
+More features in development.
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/TelegraphBot)
+Source Code : [Click Here](https://github.com/ilhamr0f11/Telegraph-Uploader-IR-Bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @IRBotsUpdate
 
-Support : @StarkBotsChat
+Support : @IRBotsUpdate
     """
 
     SUPPORTED_MEDIA_TYPES = """
